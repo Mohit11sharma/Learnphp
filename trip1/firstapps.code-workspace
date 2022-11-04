@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\employee"
+		},
+		{
+			"path": "..\\..\\ecommerce"
+		}
+	],
+	"settings": {}
+}
